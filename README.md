@@ -1,11 +1,21 @@
-# Fiche de dégustation — Le Turlupain du Fromage
+# Fiche de dégustation — Le Purlituna du Fromage
 
 Fiches de dégustation interactives de l'atelier **« Le fromage à travers son
 histoire »**, à remplir sur téléphone pendant la séance.
 
 **La page d'accueil :** https://leturlupain-jpg.github.io/fiche-degustation/
 
-## ⭐ Une fiche par fromage — depuis le 14/09/2026
+## ⭐ 27/10/2026 — les trois adresses ouvrent la fiche libre
+
+Décidé par Olivier le 27/10/2026 : `fiche-degustation-mimolette.html`,
+`…-sainte-maure-de-touraine.html` et `…-cashel-blue.html` sont désormais **des
+copies exactes de `fiche-degustation-libre.html`** (Le Purlituna du Fromage,
+vouvoiement, méthode 3 × 5). Les cartons QR déjà imprimés continuent de servir.
+Quand Olivier aura choisi les fromages de son prochain atelier, chaque adresse
+pourra reprendre une fiche au nom de son fromage. **Les noms de fichiers ne
+changent pas** : ils sont imprimés dans les QR.
+
+## Une fiche par fromage — 14/09/2026 (historique)
 
 **Décidé par Olivier après l'atelier du 10/09/2026** : la fiche unique dévoilait
 les trois fromages dès le premier. Elle est désormais **scindée en trois pages
@@ -57,5 +67,5 @@ ne changent jamais.
 
 ---
 
-*Le Turlupain du Fromage — la boisson reste l'invitée, le fromage demeure le
+*Le Purlituna du Fromage — la boisson reste l'invitée, le fromage demeure le
 maître de maison.*
